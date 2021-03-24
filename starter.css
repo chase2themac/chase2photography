@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    background-image: url(https://www.dropbox.com/s/1jbnirrdqhwdqxt/Photo%20Jul%2005%2C%208%2049%2027%20PM.jpg?dl=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Main-Header{
+    margin: auto;
+    text-align: center;
+}
+
+.Basic-Header{
+    width: 400px;
+    text-align: right;
+    margin: auto;
+    margin-right: 0%;
+    padding: 10px;
+    border: solid 15px aqua;
+}
+
+.Filler-Text{ 
+    font-size: large;
+    text-shadow: 2px 2px black;
+    color: darkgray;
+}
+
+.SampleImages{
+    position: relative;
+}
